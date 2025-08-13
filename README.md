@@ -22,7 +22,7 @@ This project directly showcases the skills required for a **Healthcare Data Anal
 * **Data Collection, Manipulation & Interpretation:** Demonstrates the ability to work with complex data, calculate new metrics, and interpret the results to find patterns and opportunities.
 * **Process Re-design & Change Management:** The analysis directly supports a process re-design initiative, showcasing an understanding of how data can be used to improve operational efficiency.
 * **Dissemination of Findings:** The final output is a clear, structured, and persuasive proposal tailored for stakeholders, demonstrating strong written communication skills.
-* **Proficiency with Excel:** The entire analysis, from calculation to visualization, is performed using advanced Excel capabilities, a key skill mentioned in the job description.
+* **Proficiency with Excel:** The entire analysis, from calculation to visualization, is performed using advanced Excel capabilities
 
 ## How to Run This Project
 
